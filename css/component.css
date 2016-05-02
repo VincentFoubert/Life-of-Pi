@@ -29,6 +29,10 @@ html, body, .container, .header {
 	font-size: 30px;
 }
 
+.font-sm{
+	font-size: 15px;
+}
+
 .color-red{
 	color: #c03b5d !important;
 }
